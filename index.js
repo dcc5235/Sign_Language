@@ -27,13 +27,7 @@ const videoSrc = document.querySelector(".img-fluid > source");
 const video = document.querySelector("video");
 
 btn.onclick = function () {
-  videoSrc.setAttribute('src', "assets/production ID_5211971.mp4")
+  let randomVideo = Math.floor(Math.random() * videoArray.length);
+  videoSrc.setAttribute('src', videoArray[randomVideo]);
   video.load();
 };
-
-
-
-// when btn is clicked, it targets video
-// video src needs to change
-// video src pulled and called from an array
-

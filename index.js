@@ -26,7 +26,14 @@ const btn = document.getElementById("click");
 const videoSrc = document.querySelector(".img-fluid > source");
 const video = document.querySelector("video");
 
-btn.onclick = function () {
+window.onload = () => generateRandomVideo();
+
+
+btn.onclick = () => {
+  generateRandomVideo();
+};
+
+const generateRandomVideo = () => {
   let randomVideo = Math.floor(Math.random() * videoArray.length);
   videoSrc.setAttribute('src', videoArray[randomVideo]);
   video.load();

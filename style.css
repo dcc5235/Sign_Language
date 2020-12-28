@@ -1,3 +1,7 @@
+#video-container {
+  min-height: 330px;
+}
+
 /* XSM/S mobile devices (portrait phones, less than 576px) */
 @media (max-width: 767.98px) { 
   body {

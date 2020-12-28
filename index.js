@@ -16,8 +16,7 @@ const videoArray = [
   "assets/production ID_5211972.mp4",
   "assets/production ID_5211973.mp4",
   "assets/production ID_5212084.mp4",
-  "assets/production ID_5212086.mp4",
-  "assets/production ID_5212087.mp4"
+  "assets/production ID_5212086.mp4"
 ];
 
 

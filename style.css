@@ -7,17 +7,13 @@
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
-  body {
-    width: 75vw;
-    margin: 0 auto;
-    background-color: #000000;
+  #generator-container {
     text-align: center;
   }
-}
-
-/* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) and (max-width: 1199.98px) { 
-  #jumbotron {
-    padding-right: 14rem;
+  
+  body {
+    width: 50vw;
+    margin: 0 auto;
+    background-color: #000000;
   }
 }

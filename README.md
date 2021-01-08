@@ -19,7 +19,7 @@ Designed with [Bootstrap](https://getbootstrap.com/), which can be downloaded or
 ## Credits
 
 - Images from [Pexels](https://www.pexels.com/).
-- Content information from
+- Content information from [Danielle Iera](https://smackhappy.com/2020/04/asl-benefits-communication/), [Debbie Clason](https://www.healthyhearing.com/report/52606-Why-you-should-learn-sign-language-in-the-new-year#:~:text=Due%20to%20its%20visual%20nature%2C%20sign%20language%20is,career%20and%20give%20added%20benefit%20to%20the%20workplace.), and [Jamie Berke](https://www.verywellhealth.com/deaf-culture-basics-1046268).
 
 ---
 

@@ -13,7 +13,9 @@ Designed with [Bootstrap](https://getbootstrap.com/), which can be downloaded or
 ---
 
 ## Project Highlights
-- 
+- onclick handler to generate random video from array of videos
+- window.onload to generate random video when page is refreshed or loaded
+- customized button, carousel, and page design using Bootstrap
 
 
 ## Credits

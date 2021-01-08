@@ -1,5 +1,7 @@
 # Sign Language Generator ![GitHub version doc](https://img.shields.io/badge/Version-1.0.0-red) ![GitHub last commit](https://img.shields.io/github/last-commit/dcc5235/Sign_Language?style=flat-square) 
 
+### Checkout the Live Version of the [Project](https://dcc5235.github.io/Sign_Language/)!
+
 **HTML5, CSS3, Bootstrap, JavaScript**
 
 A responsive, Bootstrap-focused project which incorporates JavaScript DOM to change video source any time the site is loaded or the learn more button is clicked by users.

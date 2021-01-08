@@ -6,6 +6,8 @@
 
 A responsive, Bootstrap-focused project which incorporates JavaScript DOM to change video source any time the site is loaded or the learn more button is clicked by users.
 
+![](assets/readme1.gif)
+
 ---
 
 ## Installation & Technologies
